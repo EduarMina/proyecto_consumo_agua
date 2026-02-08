@@ -14,7 +14,7 @@ const GarnierAhorro = () => {
 
   return (
     <div style={styles.container}>
-      <h2 style={{ color: '#27ae60' }}>Garnier ODS 6: Agua Limpia y Saneamiento</h2>
+      <h2 style={{ color: '#274bae' }}>Garnier ODS 6: Agua Limpia y Saneamiento</h2>
       
       <div style={styles.card}>
         {/* Imagen del producto Fructis Hair Food */}
